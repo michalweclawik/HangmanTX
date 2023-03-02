@@ -1,0 +1,21 @@
+.words {
+  display: flex;
+  gap: 0.25rem;
+  font-size: 6rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+.visible {
+  visibility: visible;
+}
+.hidden {
+  visibility: hidden;
+}
+
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
